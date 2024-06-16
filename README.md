@@ -5,6 +5,7 @@
 <h3 align="center">A passionate Software Engineer from Indonesia.</h3>
 
 ###
+###
 
 <div align="left">
   <p>🔭 I’m currently studying at SMK Wikrama Bogor.</p>
@@ -17,7 +18,7 @@
 
 ###
 
-<h3 align="left">Front-end</h3>
+<h2 align="left">Front-end</h3>
 
 ###
 
@@ -48,7 +49,7 @@
 
 ###
 
-<h3 align="left">Back-End</h3>
+<h2 align="left">Back-End</h3>
 
 ###
 
