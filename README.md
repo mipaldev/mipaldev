@@ -10,7 +10,7 @@
 <div align="left">
   <p>🔭 I’m currently studying at SMK Wikrama Bogor.</p>
   <p>👀 I’m interested in web development and machine learning.</p>
-  <p>🌱 I’m currently learning Laravel.</p>
+  <p>🌱 I’m currently learning Web Profil.</p>
   <p>💞️ I’m looking to collaborate on website development projects.</p>
   <p>💼 In my free time, I enjoy sports and watching movies.</p>
   <p>📫 How to reach me Linkedin @Muhammad Ipal</p>
